@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DevPocket: Free Developer Tools</title>
+  <meta name="description" content="JSON formatter, Base64, URL encoder, UUID, password and timestamp tools. 100% in your browser.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>DevPocket</h1>
+    <p>Free developer tools. Runs 100% in your browser. Nothing is uploaded.</p>
+  </header>
+  <main>
+    <label for="input">Input</label>
+    <textarea id="input" placeholder="Paste text, JSON, a timestamp…"></textarea>
+ 
+    <div class="buttons">
+      <button data-act="jsonFormat">JSON Format</button>
+      <button data-act="jsonMinify">JSON Minify</button>
+      <button data-act="b64enc">Base64 Encode</button>
+      <button data-act="b64dec">Base64 Decode</button>
+      <button data-act="urlEnc">URL Encode</button>
+      <button data-act="urlDec">URL Decode</button>
+      <button data-act="timestamp">Timestamp ⇄ Date</button>
+      <button data-act="uuid">New UUID</button>
+      <button data-act="password">New Password</button>
+    </div>
+ 
+    <label for="output">Output</label>
+    <textarea id="output" readonly></textarea>
+    <button id="copy" class="primary">Copy output</button>
+  </main>
+  <footer>
+    <a href="https://github.com/mukulre/devpocket">⭐ Star on GitHub</a>
+  </footer>
+  <script src="scripts.js"></script>
+</body>
+</html>
+ 
