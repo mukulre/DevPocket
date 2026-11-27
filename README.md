@@ -6,11 +6,11 @@
  
 **Free, privacy-first developer tools. One page, zero dependencies.**
  
-[![Deploy](https://github.com/YOUR-USERNAME/devpocket/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR-USERNAME/devpocket/actions)
+[![Deploy](https://github.com/mukulre/devpocket/actions/workflows/deploy.yml/badge.svg)](https://github.com/mukulre/devpocket/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
  
-[** Live Demo**](https://YOUR-USERNAME.github.io/devpocket/) · [Report Bug](https://github.com/YOUR-USERNAME/devpocket/issues) · [Request Feature](https://github.com/YOUR-USERNAME/devpocket/issues)
+[** Live Demo**](https://mukulre.github.io/devpocket/) · [Report Bug](https://github.com/mukulre/devpocket/issues) · [Request Feature](https://github.com/mukulre/devpocket/issues)
  
 </div>
  
@@ -37,12 +37,12 @@
  
 ##  Quick Start
  
-Use it online: **https://YOUR-USERNAME.github.io/devpocket/**
+Use it online: **https://mukulre.github.io/devpocket/**
  
 Or run locally:
  
 ```bash
-git clone https://github.com/YOUR-USERNAME/devpocket.git
+git clone https://github.com/mukulre/devpocket.git
 cd devpocket
 # Just open index.html in your browser, or:
 npx serve .
@@ -80,7 +80,7 @@ Contributions are welcome and appreciated!
 4. Push: `git push origin feature/hash-generator`
 5. Open a Pull Request
  
-Look for issues labeled [`good first issue`](https://github.com/YOUR-USERNAME/devpocket/labels/good%20first%20issue) to get started.
+Look for issues labeled [`good first issue`](https://github.com/mukulre/devpocket/labels/good%20first%20issue) to get started.
  
 ## ️ Roadmap
  
@@ -102,5 +102,5 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
  
 ---
  
-<div align="center">Made with ❤️ by <a href="https://github.com/YOUR-USERNAME">YOUR-NAME</a></div>
+<div align="center">Made with ❤️ by <a href="https://github.com/mukulre">Mukul Raj </a></div>
  
